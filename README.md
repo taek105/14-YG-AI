@@ -26,10 +26,6 @@ https://github.com/user-attachments/assets/ba72ea5a-f858-4815-b567-62d74c08181c
 
 ---
 
-### [2. 자연어로 우리 서비스를 이용할 수 있는 챗봇 기능](./v2/README.md)
->  V3 구현 예정
-
-
 ### [익명 채팅 모더레이션 기능 (클린봇)](./moderation/README.md)
 <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/python-3.11-blue?style=flat&logo=python&logoColor=white">
